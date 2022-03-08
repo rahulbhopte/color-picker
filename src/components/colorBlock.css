@@ -1,0 +1,10 @@
+.color-block {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+.color-container {
+  display: flex;
+  justify-content: space-evenly;
+}
